@@ -1,3 +1,6 @@
+## Lev Poznyakov's first homework
+## Multi-optional VK Bot 
+
 import vk_api
 from vk_api.bot_longpoll import VkBotLongPoll, VkBotEventType
 from vk_api.utils import get_random_id
